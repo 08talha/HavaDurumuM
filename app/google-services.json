@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102479301969",
+    "firebase_url": "https://havadurumum-6474c.firebaseio.com",
+    "project_id": "havadurumum-6474c",
+    "storage_bucket": "havadurumum-6474c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102479301969:android:99f8096686b85475",
+        "android_client_info": {
+          "package_name": "com.example.talha.havadurumum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102479301969-hvffrnhj9ekm1p4fvfjnrollvoimdm36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talha.havadurumum",
+            "certificate_hash": "5050f70a54c0c95e9676677f78b5d9b6a40b8804"
+          }
+        },
+        {
+          "client_id": "102479301969-6eb8480olqldnqe6ef7m0p2dfujbd2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1NLCp4lnVaqV4nD3Bjp07UoAt6tFrIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102479301969-6eb8480olqldnqe6ef7m0p2dfujbd2d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

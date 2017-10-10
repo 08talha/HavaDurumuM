@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.talha.havadurumum.MainActivity">
+
+    <LinearLayout
+        android:layout_width="322dp"
+        android:layout_height="490dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="13dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/UlkeKodu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="33dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/yer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="97dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/derece"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="233dp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/havaninDurumu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="283dp"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="114dp"
+            app:srcCompat="@android:drawable/ic_menu_report_image"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/havaDetayi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:ignore="HardcodedText"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="347dp" />
+
+        <TextView
+            android:id="@+id/nemOrani"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:ignore="HardcodedText"
+            tools:layout_editor_absoluteX="150dp"
+            tools:layout_editor_absoluteY="396dp" />
+
+        <TextView
+            android:id="@+id/fonksiyonel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            tools:ignore="HardcodedText"
+            tools:layout_editor_absoluteX="148dp"
+            tools:layout_editor_absoluteY="163dp" />
+        <Button
+            android:id="@+id/KonumAl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Konum Al"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="445dp"
+            tools:ignore="HardcodedText,MissingConstraints" />
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
