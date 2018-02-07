@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     String havanindurumu;
     String derecee;
     double nemorani;
-    String API_KEY = "a26d26aa2d7b42b27524a3fe389b136f";
+    String API_KEY = "----ApiKey---";
     public static final int REQUEST_ID_MULTIPLE_PERMISSIONS = 1905;
     String mesaj;
     String mesajl;
